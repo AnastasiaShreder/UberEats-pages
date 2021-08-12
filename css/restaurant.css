@@ -30,7 +30,7 @@ html {
 .restaurant {
     /* position: relative; */
     /* padding-top: 33%; */
-    background: url('/img/dishes/bg.png') no-repeat;
+    background: url('../img/dishes/bg.png') no-repeat;
     margin: 0px auto;
     background-size: cover;
     background-position: center;
