@@ -1,4 +1,12 @@
-# UberEats-pages
-Final project from Stepic course: https://stepik.org/course/38218/info 
+# UberEats - доставка еды
+Финальный проект курса: https://stepik.org/course/38218/info 
+### Просмотр текущей версии
+https://anastasiashreder.github.io/UberEats-pages/
 
-Original pages on Figma: https://www.figma.com/file/8lxQ3PGYTHQsCgTXnEJre8/Uber-Eats?node-id=0%3A1
+Для перехода на вторую страницу нажать на первый ресторан в списке.
+### Макет
+Проект выполнен по готовому макету: https://www.figma.com/file/8lxQ3PGYTHQsCgTXnEJre8/Uber-Eats?node-id=0%3A1
+
+### Языки, технологии и инструменты
+* Flex CSS
+* БЭМ-именование
