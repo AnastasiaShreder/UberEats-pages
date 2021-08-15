@@ -8,5 +8,6 @@ https://anastasiashreder.github.io/UberEats-pages/
 Проект выполнен по готовому макету: https://www.figma.com/file/8lxQ3PGYTHQsCgTXnEJre8/Uber-Eats?node-id=0%3A1
 
 ### Языки, технологии и инструменты
+* HTML/CSS
 * Flex CSS
 * БЭМ-именование
